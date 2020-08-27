@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+body{
+    background-image: url(./img/tristan-taussac-TQlw6tKXkAw-unsplash.jpg);
+    background-size: inherit;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Londrina Solid', cursive;
+}
+header{
+    text-align: center;
+    margin: 20px auto;
+    font-size: 50px;
+    font-family: 'Londrina Solid', cursive;
+    letter-spacing: 2px;
+    color: #f5a31a;
+}
+
+
+.besi{
+    margin: 40px auto;
+    text-align: center;
+    width: 550px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+button{
+    border-radius: 70%;
+    padding: 30px;
+    margin: 10px 20px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.merah{
+    background-color: #ec0101;
+}
+
+.kuning{
+    background-color: #fddb3a;
+}
+
+.hijau{
+    background-color: #79d70f;
+}
+
+.besi2{
+    margin: 10px auto;
+    text-align: center;
+    width: 250px;
+    background-color: black;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+.besi2:hover{
+    background-color: #f5a31a;
+}
+
+.notice{
+    color: #f5a31a;   
+    cursor: pointer;
+}
+
+.notice:hover{
+    color: black ;
+}
+
+
+
+.hasil{
+    margin: 10px auto;
+    /* padding: 0px auto; */
+    text-align: center;
+    width: 550px;
+    background-color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #f5a31a;
+}
+
+
+.hasil h2{
+    padding: 30px;
+    letter-spacing: 3px;
+}
+
+#hasilwarna{
+    font-size: 40px;
+}
+.hidden{
+    visibility: hidden;
+}
+
+
